@@ -15,10 +15,12 @@ TCPServerBase offers simple interface to interract with incoming connections. It
 - Set your handler in server.
 - Use start method.
 
-That`s all. After what you will get working server with simplified console. It`s commands is:
+That is all. After what you will get working server with simplified console. It`s commands is:
 - stop - it speaks for itself.
 - log - show all accepted connections.
 - state - show the state of the server.
+
+You can see examples on this [page](https://github.com/MeDGranD/TCPServer/tree/main/example).
 
 # Requirements
 TCPServerBase was develop on and for *nix system, so it is the main requirement. But it`s interfaces still can be used for another system, but implementaion will laid on the programmer.
