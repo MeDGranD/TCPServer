@@ -1,9 +1,9 @@
 CXX = 		g++
 CXX_FLAGS =	-std=c++17 -Wall
 
-SRC =		../src
+SRC =		../../src
 BIN = 		bin
-INCLUDE = 	../include
+INCLUDE = 	../../include
 SERVER = 	server.cpp
 CLIENT = 	client.cpp
 SEREXE = 	server
