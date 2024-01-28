@@ -20,7 +20,7 @@ That is all. After what you will get working server with simplified console. It`
 - log - show all accepted connections.
 - state - show the state of the server.
 
-Also in src folder ypu can find simple HTTP handler. It get, parse and send via simple interface - all you need to do is get HTTPreq struct and give HTTPans struct.
+Also in src folder you can find simple HTTP handler. It get, parse and send via simple interface - all you need to do is get HTTPreq struct and give HTTPans struct.
 
 You can see examples on this [page](https://github.com/MeDGranD/TCPServer/tree/main/example).
 
